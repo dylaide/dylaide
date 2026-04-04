@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Doyeon Lim 👋
+
+### Education
+- **학교**: Hankuk University of Foreign Studies
+- **전공**: Biomedical Engineering
+- **이중전공**: Computer Science
+
+### Current Projects
+- **1**
+- **2**
+- **3**
+- ...
+
+
 
 <!--
 **dylaide/dylaide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
