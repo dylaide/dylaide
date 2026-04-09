@@ -6,10 +6,10 @@
 - **이중전공**: Computer Science
 
 ### Current Projects
-- **1**
-- **2**
-- **3**
-- ...
+- **1** Deepfake Detection 
+- **2** Trichomonas Detection
+- **3** WTEC
+- **4** VOCABOO
 
 
 
