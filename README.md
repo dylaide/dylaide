@@ -7,7 +7,7 @@
 
 ### 🎓 Education
 - **한국외국어대학교 (HUFS)**
-  - 본전공: 의공학 (Biomedical Engineering)
+  - 본전공: 바이오메디컬공학 (Biomedical Engineering)
   - 이중전공: 컴퓨터공학 (Computer Science)
 
 ---
